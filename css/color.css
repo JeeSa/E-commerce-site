@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css?family=Jim+Nightshade');
+/*top header start*/
+.light_red{
+    color: #AC5F32;
+}
+.margin5{
+    margin-top:10px;
+    margin-bottom: -20px;
+}
+.top-nav li{
+    display: inline;
+    list-style-type: none;
+    padding:0 5px;
+    border-left:1px solid green ;
+ }
+/*top header end*/
+
+.logo{
+    font-family: 'Jim Nightshade', cursive;
+    font-size: 35px;
+    opacity: .5;
+    font-weight:bold;
+}
+.footer-row{
+
+
+}
+.footer-child ul{
+    list-style-type: none;
+    color: #FFFFFF;
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+@import url('https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300');
+.footer-child ul a{
+    font-size: 21px;
+
+}
+@import url('https://fonts.googleapis.com/css?family=Fjalla+One|Noto+Sans|Open+Sans+Condensed:300');
+.footer-child h3{
+    font-weight: 550;
+    letter-spacing: -1px;
+    font-size: 26px;
+    color: #FFFFFF;
+    padding-left: 15px;
+
+
+
+    font-family: 'Open Sans Condensed', sans-serif;
+
+    font-family: 'Noto Sans', sans-serif;
+
+    font-family: 'Fjalla One', sans-serif;
+
+
+
+}
+.footer-row{
+
+}
+.footer-main{
+
+    background-color: #4DCEC0;
+
+    height: 345px;
+
+}
+
+
+/*Footer products company starts*/
+/*copy rights */
+.footer-margin{
+    margin-bottom: -15px;
+    background-color: #31A699;
+    border: none;
+    border-radius: 0px;
+    color: #FFFFFF
+}
